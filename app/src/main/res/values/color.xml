@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dealers_purple">#9600B4</color>
+    <color name="dealers_purple_pressed">#AF3ACB</color>
+    <color name="black">#323241</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray_text">#9191A0</color>
+    <color name="facebook">#3A569C</color>
+    <color name="facebook_pressed">#4869AA</color>
+
+    <color name="static_cell_background_light_gray">#F2F2F8</color>
+</resources>
